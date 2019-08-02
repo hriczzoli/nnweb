@@ -7,7 +7,7 @@ This is the test/new version of the Nam Noodles website - with a couple changes 
 - Needs code refactoring + optimization
 
 
-How to use
+### How to use
 
-# To run the project locally
+# to run the project locally
 php artisan serve
